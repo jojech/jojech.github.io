@@ -14,7 +14,7 @@ const exp = [
   },
   {
     title: "Software Implementation Intern",
-    cardImage: "assets/images/experience-page/allcovered.png",
+    cardImage: "assets/images/experience-page/allcovered.jpg",
     place: "All Covered/Forza",
     time: "(April - July, 2021)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
