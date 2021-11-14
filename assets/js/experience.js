@@ -10,21 +10,21 @@ const exp = [
     cardImage: "assets/images/experience-page/vmw.jpg",
     place: "Vanderhall Motor Works",
     time: "(September, 2021 - Present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Integrated system processes with common APIs including UPS, Twitter, Facebook, Linkedin, and Instagram.</li> <li>Created a live website on an AWS server.</li> <li>Automated processes, created new workflows and interfaces, delivered key KPIs on the app and website, and fixed bugs.</li>",
   },
   {
     title: "Software Implementation Intern",
     cardImage: "assets/images/experience-page/allcovered.jpg",
     place: "All Covered/Forza",
     time: "(April - July, 2021)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Created over 40 SQL Server reports to aid in system processes.</li><li>Resolved tickets, managed authorizations, and created queries/reports/functions within SAP Business One.</li><li>Met with clients personally to train them on system processes and resolve concerns.</li>",
   },
   {
     title: "Billing Representative",
     cardImage: "assets/images/experience-page/milner.jpg",
     place: "Milner, Inc.",
     time: "(April, 2019 - April, 2021)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp:"<li>Designed macros to automate processes for the billing department.</li><li>Constructed a custom billing management system that became department policy.</li> <li>Managed over 130 customer accounts, led the auditing team that audited over 1000 contracts, and trained 4 new employees. </li>",
   },
 ];
 
