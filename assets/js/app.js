@@ -366,7 +366,3 @@ $(window).on("load", function () {
   }, 1000);
   $(".loader-container").fadeOut(2500);
 });
-
-$(function () {
-  toggle_light_mode();
-});
