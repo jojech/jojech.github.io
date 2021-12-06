@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "PHP Developer",
-    cardImage: "assets/images/experience-page/vmw.jpg",
+    cardImage: "assets/images/experience-page/vanderhall_seal.png",
     place: "Vanderhall Motor Works",
     time: "(September, 2021 - Present)",
     desp: "<li>Integrated system processes with common APIs including UPS, Twitter, Facebook, Linkedin, and Instagram.</li> <li>Created a live website on an AWS server.</li> <li>Automated processes, created new workflows and interfaces, delivered key KPIs on the app and website, and fixed bugs.</li>",
